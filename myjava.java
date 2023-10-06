@@ -2,7 +2,7 @@ class Simple{
 	
     public static void main(String args[]){  
 	
-     System.out.println("Hello Jakkkkghfghfhgkoli");  
+     System.out.println("Hello Jgkoli");  
 	
     }  
 	
